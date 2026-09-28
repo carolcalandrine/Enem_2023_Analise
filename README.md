@@ -8,7 +8,7 @@
 
 O ENEM (Exame Nacional do Ensino Médio) é a maior avaliação educacional do Brasil, aplicada anualmente pelo INEP (Instituto Nacional de Estudos e Pesquisas Educacionais). Em 2023, quase 4 milhões de estudantes se inscreveram, tornando o exame uma das maiores fontes de dados educacionais do país.
 
-Os microdados do ENEM são disponibilizados publicamente pelo INEP e permitem análises detalhadasss sobre o desempenho dos estudantes, levando em consideração fatores como renda familiar, tipo de escola, raça/cor e localização geográfica.
+Os microdados do ENEM são disponibilizados publicamente pelo INEP e permitem análises detalhadas sobre o desempenho dos estudantes, levando em consideração fatores como renda familiar, tipo de escola, raça/cor e localização geográfica.
 
 ---
 
