@@ -14,7 +14,7 @@ Os microdados do ENEM são disponibilizados publicamente pelo INEP e permitem an
 
 ## Objetivo
 
-Este projeto tem como objetivo analisar os microdados do ENEM 2023 para responder à seguinte pergunta de negócio:
+Este projeto tem como o objetivo analisar os microdados do ENEM 2023 para responder à seguinte pergunta de negócio:
 
 **O que influencia o desempenho dos estudantes brasileiros?**
 
